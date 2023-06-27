@@ -1,4 +1,4 @@
-name,phone,email,numberrange,currency...
+name,phone,email,numberrange,currency
 Herrod Bond,(245) 474-0928,ac@yahoo.ca,4,$28.02
 Merritt Willis,(264) 614-6552,sapien.imperdiet@google.couk,0,$80.31
 Whilemina Bright,(797) 401-2245,cras@hotmail.net,8,$58.57
@@ -102,3 +102,4 @@ Ramona French,(746) 894-0765,ac.libero@icloud.org,0,$24.64
 Roma,#45612437,e@jhfdjlfg,2,$12469
 Vova,6541327654,t@ujfgkjew,3,$4657236
 urfewikg,54378,753,75432,454
+ Hi pidor
