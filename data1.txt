@@ -1,4 +1,4 @@
-name,phone,email,numberrange,currency
+name,phone,email,numberrange,currency...
 Herrod Bond,(245) 474-0928,ac@yahoo.ca,4,$28.02
 Merritt Willis,(264) 614-6552,sapien.imperdiet@google.couk,0,$80.31
 Whilemina Bright,(797) 401-2245,cras@hotmail.net,8,$58.57
