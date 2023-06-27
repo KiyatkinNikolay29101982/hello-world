@@ -2,7 +2,7 @@ name,phone,email,numberrange,currency...
 Herrod Bond,(245) 474-0928,ac@yahoo.ca,4,$28.02
 Merritt Willis,(264) 614-6552,sapien.imperdiet@google.couk,0,$80.31
 Whilemina Bright,(797) 401-2245,cras@hotmail.net,8,$58.57
-Merrill Cleveland,(663) 813-6830,et.rutrum@hotmail.couk,10,$1.97
+Merrill Cleveland,(663) 813-6830,et.rutrum@hotmail.couk,10,$1.9
 Nicholas Parrish,1-512-984-5353,a.odio@protonmail.couk,1,$15.48
 Basia Bell,1-547-842-7241,maecenas.ornare@google.org,9,$79.61
 Thor Alexander,(237) 948-7155,adipiscin@icloud.edu,7,$68.90
